@@ -6,7 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>This is HTML file</h1>
+    <h1>This is PHP file</h1>
     <p>First step for lerning git command!<p>
     <hr>
     <p>By suphafang.</p>
